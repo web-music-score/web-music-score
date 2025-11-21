@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the new home for Web Music Score library.
+This is new home for the web-music-score library repositories.
 
 Check the main repo [wms](https://github.com/web-music-score/wms).
 
