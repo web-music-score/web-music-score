@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-This is new home for the web-music-score library repositories.
+This is new home for the **Web Music Score** project repositories.
 
-Check the main repo [wms](https://github.com/web-music-score/wms).
+Check the main [web-music-score/wms](https://github.com/web-music-score/wms) repo.
 
 <!--
 **web-music-score/web-music-score** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
